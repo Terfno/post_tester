@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Terfno/post_tester/issues"
   },
-  "homepage": "https://github.com/Terfno/post_tester#readme"
+  "homepage": "https://github.com/Terfno/post_tester#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
