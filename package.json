@@ -1,0 +1,19 @@
+{
+  "name": "post_tester",
+  "version": "1.0.0",
+  "description": "for practice curl post",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terfno/post_tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terfno/post_tester/issues"
+  },
+  "homepage": "https://github.com/Terfno/post_tester#readme"
+}
