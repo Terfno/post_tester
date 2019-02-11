@@ -1,6 +1,9 @@
 # post_tester
 curlでjsonをpostする練習用の鯖
 
+node:v11.8.0
+npm:6.7.0
+
 ## 使い方
 ### 起動
 ```
