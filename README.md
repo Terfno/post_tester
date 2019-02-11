@@ -5,6 +5,14 @@ node:v11.8.0
 npm:6.7.0
 
 ## 使い方
+### 準備
+```
+$ cd <任意のディレクトリ>
+$ git clone https://github.com/Terfno/post_tester
+$ cd post_tester
+$ npm install
+
+```
 ### 起動
 ```
 $ node server.js
